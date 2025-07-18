@@ -25,8 +25,9 @@
 | 로그인 인증 | Spring Security의 **Form 로그인 방식** 사용 |
 | 권한 제어 | ROLE_USER, ROLE_ADMIN 등 권한별 접근 제어 |
 | 댓글 기능 (REST) | 댓글 등록/조회/수정/삭제 기능을 **REST API 방식(AJAX)** 으로 구현 |
-| Access Denied 처리 | 접근 거부 시 custom 접근 거부 페이지로 리다이렉트 |
+| 게시판 페이징 | Oracle 기반 페이징 처리 (`ROWNUM` 활용) 및 페이지 번호, 글 개수 조절 기능 구현 |
 | 게시판 기능 | 일반 게시글 CRUD는 JSP 기반 Form 방식 |
+| Access Denied 처리 | 접근 거부 시 custom 접근 거부 페이지로 리다이렉트 |
 | CSRF 대응 | CSRF 토큰 적용 및 인터셉터 처리 포함 |
 
 ## 프로젝트 구조 ##
