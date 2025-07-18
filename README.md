@@ -32,9 +32,15 @@
 ## 프로젝트 구조 ##
 ![36-2](https://github.com/user-attachments/assets/1a9764ec-5131-4473-a745-d9e0d37e3062)
 
+<img width="773" height="737" alt="32" src="https://github.com/user-attachments/assets/1a80ad46-7e70-42a2-9271-dd322c35af45" />
+
+## 페이징  ##
+<img width="773" height="639" alt="image01" src="https://github.com/user-attachments/assets/ff4b8191-cdf4-484a-8d8c-f5e03681e461" />
 
 
-## 화면구현 ##
+
+
+## 화면구현 시큐리티 ##
 ![1](https://github.com/user-attachments/assets/d3ebec01-ef1d-4d7d-a2aa-2651a8c31a02)
 
 ![2](https://github.com/user-attachments/assets/abfa924c-6cbf-4a10-bf88-0d786554273d)
