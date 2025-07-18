@@ -30,7 +30,8 @@
 |  CSRF 대응 | CSRF 토큰 적용 및 테스트 코드 포함 |
 
 ## 프로젝트 구조 ##
-![Uploading 36-2.jpg…]()
+![36-2](https://github.com/user-attachments/assets/1a9764ec-5131-4473-a745-d9e0d37e3062)
+
 
 
 ## 화면구현 ##
