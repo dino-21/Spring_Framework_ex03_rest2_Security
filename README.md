@@ -22,12 +22,12 @@
 ## 주요 기능 ##
 | 기능 | 설명 |
 |------|------|
-| 로그인 인증 | Spring Security를 활용한 로그인 처리 |
+| 로그인 인증 | Spring Security의 **Form 로그인 방식** 사용 |
 | 권한 제어 | ROLE_USER, ROLE_ADMIN 등 권한별 접근 제어 |
-| REST 방식 로그인 | AJAX 기반 로그인 처리 지원 |
-| Access Denied 처리 | 접근 거부 시 custom 페이지로 리다이렉트 |
-| 게시판 API | 게시글 등록, 목록, 상세보기 등 REST API |
-|  CSRF 대응 | CSRF 토큰 적용 및 테스트 코드 포함 |
+| 댓글 기능 (REST) | 댓글 등록/조회/수정/삭제 기능을 **REST API 방식(AJAX)** 으로 구현 |
+| Access Denied 처리 | 접근 거부 시 custom 접근 거부 페이지로 리다이렉트 |
+| 게시판 기능 | 일반 게시글 CRUD는 JSP 기반 Form 방식 |
+| CSRF 대응 | CSRF 토큰 적용 및 인터셉터 처리 포함 |
 
 ## 프로젝트 구조 ##
 ![36-2](https://github.com/user-attachments/assets/1a9764ec-5131-4473-a745-d9e0d37e3062)
